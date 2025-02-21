@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Journal & Planner",
+    "version": "1.0",
+    "description": "A Chrome extension with a daily journal and planner.",
+    "action": {
+      "default_popup": "popup.html",
+      "default_title": "Journal & Planner"
+    },
+    "permissions": []
+  }
+  
