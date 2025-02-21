@@ -1,0 +1,5 @@
+- Take snapshots of life via journalling.
+- plan your day with planner
+- search your journal entires via keywords, start date or end date
+- import or export entries in a json format
+- dark theme
